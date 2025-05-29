@@ -30,6 +30,5 @@ int main(){
           notasAlunos [index][2]);
 
 
-
     return 0;
 }
