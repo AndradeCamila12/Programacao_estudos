@@ -24,7 +24,7 @@ do{
 for (int i = 1; i <= 5; i++){
     printf("%d\n", i);
 
-}
+}*/
 
 int numero;
 
@@ -39,10 +39,10 @@ do{ printf("Digite um número par para sair do programa: ");
     }
 
 } while (numero % 2 != 0);
-    printf("Você digitou um número par, saindo do programa...\n");*/
+    printf("Você digitou um número par, saindo do programa...\n");
 
 
-int numero, i;
+/*int numero, i;
 
     printf("Digite um número para calcularmos a tabuada: ");
     scanf("%d", &numero);
@@ -50,7 +50,7 @@ int numero, i;
     for (i = 0; i <= 10; i++)
     {
         printf("%d x %d = %d\n", i, numero, numero * i);
-    }
+    }*/
 
 
     return 0;
